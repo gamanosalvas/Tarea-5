@@ -44,3 +44,18 @@ Capitulo 9:
 
 
 Ejercicios: Capitulo 9
+
+5. Conclusiones:
+
+• Se concluye que el teorema de superposición es válido, la tensión entre los extremos (o la corriente) de un elemento en un circuito lineal es la suma algebraica de las tensiones (o corrientes) a través de ese elemento.
+
+• Se aplicó adecuadamente las leyes de Kirchhoff dentro del experimento para poder hallar la resistencia y el voltaje.
+
+• La potencia máxima será desarrollada en la carga cuando la resistencia de carga RL sea iguala la resistencia interna de la fuente Ri.
+
+• Cuando es importante obtener la máxima transferencia de potencia, la resistencia de carga debe adaptarse a la resistencia interna en las fuentes de voltaje.
+
+
+6. Bibliografia:
+
+F. (2021). Principles Of Electric Circuits, 8Ed. Pearson.
