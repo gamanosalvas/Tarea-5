@@ -35,8 +35,6 @@ Especificos
 
 2. Marco Teorico:
 
-Capitulo 9:
-
 ![image](https://user-images.githubusercontent.com/94025287/148792717-04915950-9ab3-4d87-8ca2-ff48141a00fe.png)
 
 
