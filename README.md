@@ -219,7 +219,10 @@ Se ejerce una fuerza en el conductor cuando existe corriente.
 
 • Cuando es importante obtener la máxima transferencia de potencia, la resistencia de carga debe adaptarse a la resistencia interna en las fuentes de voltaje.
 
+6. Video
 
-6. Bibliografia:
+https://youtu.be/10AtUp3ijE8
+
+7. Bibliografia:
 
 F. (2021). Principles Of Electric Circuits, 8Ed. Pearson.
