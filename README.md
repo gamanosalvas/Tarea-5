@@ -149,6 +149,67 @@ Ejercicios: Capitulo 9
 
 ![image](https://user-images.githubusercontent.com/94025287/177804080-0791105d-9f30-45bb-a318-62bdc7110cc0.png)
 
+Capitulo 10
+
+2. En cierto campo magnético, el área de sección transversal es de 0.5 m2 y el flujo es de 1500 mWb. ¿Cuál es la densidad de flujo?
+
+![image](https://user-images.githubusercontent.com/94025287/177807403-6cb4828e-5736-46c9-a0a0-cbda0df30b0c.png)
+
+4. En un lugar dado, suponga que el campo magnético terrestre es de 0.6 gauss. Exprese esta densidad de flujo en teslas.
+
+![image](https://user-images.githubusercontent.com/94025287/177807514-6534b7b2-5cc0-4f59-8911-bfc1c0ec61ac.png)
+
+6. ¿Qué le sucede a la aguja de la brújula mostrada en la figura 10-9 cuando la corriente que circula a través del conductor se invierte?
+
+Invertir la dirección de la corriente también invertirá la dirección del flujo magnético debido a la regla de la mano izquierda.
+
+8. Determine la reluctancia de un material con longitud de 0.28 m y área de sección transversal de 0.08 m2 si la permeabilidad absoluta es de
+
+![image](https://user-images.githubusercontent.com/94025287/177808260-4306e3d3-2195-4622-9cbc-877cd915d85f.png)
+
+10. De manera característica, cuando se activa un solenoide, ¿se extiende o retrae el émbolo de imán?
+
+Es un dispositivo electromagnético usado para aplicar una fuerza mecánica lineal en respuesta al paso de una corriente a través del embobinado.
+
+12. Explique la secuencia de los eventos mostrados en el circuito de la figura 10-43 comenzando cuando el interruptor 1 (SW1) se cierra.
+
+El simbolo se conecta para el bonton del relé.
+
+14. ¿Cuál es la fuerza magnetizante en el problema 9 si la longitud del núcleo es de 0.2 m?
+
+![image](https://user-images.githubusercontent.com/94025287/177808925-344186cc-40ef-4930-9bcd-2195f10a19f8.png)
+
+![image](https://user-images.githubusercontent.com/94025287/177808945-bdd0c70c-1869-4278-867b-93a2bf32c831.png)
+
+16. En la figura 10-44, hay 500 vueltas. Determine
+
+(a) H (b) f (c) B
+
+![image](https://user-images.githubusercontent.com/94025287/177809059-f0c83910-6df2-4ee7-921b-41b1633bf559.png)
+
+![image](https://user-images.githubusercontent.com/94025287/177809093-a23c4e49-4569-42b4-8577-28ca32fa4c7f.png)
+
+![image](https://user-images.githubusercontent.com/94025287/177809125-a6b9ef5e-4991-4d7c-bdc0-31ea3d03add8.png)
+
+![image](https://user-images.githubusercontent.com/94025287/177809146-4432466d-bcee-4f67-b83b-d08a0e540804.png)
+
+18. De acuerdo con la ley de Faraday, ¿qué le sucede al voltaje inducido en una bobina dada si la razón de cambio del flujo magnético se duplica?
+
+Se induce voltaje cero.
+
+20. Un campo magnético cambia a razón de 3500  10 3 Wb/s. ¿Cuánto voltaje se induce en una bobina de 500 vueltas colocada en el campo magnético?
+
+El voltaje inducido se incrementa.
+
+22. En la figura 10-33, ¿por qué no se induce voltaje cuando el disco no está girando?
+
+![image](https://user-images.githubusercontent.com/94025287/177809669-f6851777-0d87-4fba-a27b-98b63a592733.png)
+
+Se ejerce una fuerza en el conductor cuando existe corriente.
+
+24. Un generador de cd básico de una espira gira a 60 rev/s. ¿Cuántas veces cada segundo llega el voltaje de cd de salida a su pico (alcanza un máximo)?
+
+120 cada segunndo.
 
 5. Conclusiones:
 
